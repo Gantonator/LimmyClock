@@ -20,8 +20,8 @@ html, body {
 
 .clock {
     position: absolute;
-    top: 726.6px;
-    left: 811.3px;
+    top: 725.6px;
+    left: 811.5px;
     background: #000;
     transform: scale(0.095) rotateZ(-8deg);
     width: 600px;

@@ -85,7 +85,8 @@ html, body {
     top:10px;
     left:20px;
     right:20px;
-    height:25px;
+    height:25px;    
+    z-index: 1;
 }
 
 .digit .segment:nth-child(2) {

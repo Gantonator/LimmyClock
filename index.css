@@ -21,10 +21,10 @@ html, body {
 .clock {
     position: absolute;
     top: 726.4px;
-    left: 812.4px;
-    background: #000;
-    transform: scale(0.095) skew(3deg, -8deg);
-    width: 600px;
+    left: 817.4px;
+    background: #484446;
+    transform: scale(0.095, 0.08) skew(3deg, -10deg);
+    width: 590px;
     text-align: center;
     height: 210px;
     border-radius: 30px;
@@ -52,7 +52,7 @@ html, body {
 
 .digit .segment.on, .separator .dot {
     opacity:1;
-    box-shadow: -5px 10px 60px 10px rgb(255 0 0);
+    box-shadow:  -5px 10px 60px 10px rgb(255 31 42);
     transition:opacity 0s;
     -webkit-transition:opacity 0s;
     -ms-transition:opacity 0s;
